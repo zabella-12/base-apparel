@@ -58,7 +58,7 @@ main {
     width: 500px;
     height: 600px;
     justify-content: flex-start;
-    background-image: url(/images/bg-pattern-desktop.svg);
+    background-image: url(../images/bg-pattern-desktop.svg);
     background-position: center;
    
    
@@ -66,7 +66,7 @@ main {
   }
 
 .avatar {
-    background-image: url(/images/hero-desktop.jpg);
+    background-image: url(../images/hero-desktop.jpg);
     background-position: center;
     background-size: cover;
     width: 500px;
@@ -126,3 +126,13 @@ button img {
 button:hover  {
   cursor: pointer;
 }
+
+.form-control {
+  background: url("../images/icon-error.svg") no-repeat right;
+  background-position-x: 210px;
+  
+  }
+
+  .form-control img {
+    opacity: 0;
+  }
