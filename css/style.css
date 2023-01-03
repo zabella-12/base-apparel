@@ -126,13 +126,3 @@ button img {
 button:hover  {
   cursor: pointer;
 }
-
-.form-control {
-  background: url("../images/icon-error.svg") no-repeat right;
-  background-position-x: 210px;
-  
-  }
-
-  .form-control img {
-    opacity: 0;
-  }
