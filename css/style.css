@@ -117,12 +117,7 @@ button img {
  margin-left: 15px;
 }
 
-
-.alertOk {
-  font-size: 10px;
-  color: green;
-}
-
 button:hover  {
   cursor: pointer;
 }
+
